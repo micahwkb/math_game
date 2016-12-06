@@ -3,8 +3,7 @@
 require './game.rb'
 require './player.rb'
 require './question.rb'
-
-require 'pry'
+# require 'pry'
 
 new_game = MathGame::Game.new
 new_game.start
